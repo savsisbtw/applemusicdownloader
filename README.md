@@ -1,5 +1,7 @@
 # Made By Savsis with <3 
 
+
+![license](https://img.shields.io/github/license/devsavsis/applemusicdownloader)
 # nodex.pw song downloader
 
 качает с youtube / spotify / apple music, конвертирует если нужно, вшивает обложку и теги
